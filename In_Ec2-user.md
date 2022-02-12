@@ -8,6 +8,8 @@
 
 ◻️ `cd /etc/3/` ;
 
+◻️ In `nano openssl-easyrsa.cnf` comment RANDFILE “#” ;
+
 ◻️ `./easyrsa` shows all commands that can be used ;
 
 ◻️ `./easyrsa init-pki` creates the pki folder, where it will contain the certificates when they are created ;
