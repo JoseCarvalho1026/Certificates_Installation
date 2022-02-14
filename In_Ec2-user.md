@@ -4,7 +4,7 @@
 
 ◻️ `yum install easy-rsa -y` ;
 
-◻️ `cp -r /usr/share/easy-rsa/3/ /etc/` copy the "3" folder for "/etc" ;
+◻️ `cp -r /usr/share/easy-rsa/3/ /etc/` copy the "3" folders for "/etc" ;
 
 ◻️ `cd /etc/3/` ;
 
